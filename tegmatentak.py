@@ -33,9 +33,9 @@ except ImportError:
 # === SOZLAMALAR ===
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 ADMIN_ID = 5492502957
-ADMIN_USERNAME = "@Javoh_1hacker"
+ADMIN_USERNAME = "@Javoh_123"
 CHANNEL_USERNAME = "@qoshiqyaratish"  
-CHANNEL_LINK = "https://t.me/qoshiqyaratish"  
+CHANNEL_LINK = "https://t.me/Qoshiqyaratish1"  
 SONG_PRICE_SHORT = 15000   # 1-2 daqiqalik
 SONG_PRICE_FULL = 20000    # 3 daqiqalik
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
