@@ -33,7 +33,7 @@ except ImportError:
 # === SOZLAMALAR ===
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 ADMIN_ID = 5492502957
-ADMIN_USERNAME = "@Javoh_1hacker"
+ADMIN_USERNAME = "@Javoh_123"
 CHANNEL_USERNAME = "@Qoshiqyaratish1"  
 CHANNEL_LINK = "https://t.me/Qoshiqyaratish1"  
 SONG_PRICE_SHORT = 15000   # 1-2 daqiqalik
